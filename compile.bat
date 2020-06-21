@@ -1,0 +1,1 @@
+electron-packager . app --platform=win32 --electron-version=9.0.4 --icon=icon.ico --overwrite
